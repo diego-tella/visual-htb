@@ -1,0 +1,7 @@
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\bin\Debug\TesteExec.exe.config
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\bin\Debug\TesteExec.exe
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\bin\Debug\TesteExec.pdb
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.csproj.AssemblyReference.cache
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.csproj.CoreCompileInputs.cache
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.exe
+C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.pdb
