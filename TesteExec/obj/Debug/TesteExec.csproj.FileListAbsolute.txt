@@ -5,3 +5,10 @@ C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\Test
 C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.csproj.CoreCompileInputs.cache
 C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.exe
 C:\Users\diego.tellaroli.VPARATY\source\repos\TesteExec\TesteExec\obj\Debug\TesteExec.pdb
+C:\Users\diego\Desktop\visual-htb\TesteExec\bin\Debug\TesteExec.exe.config
+C:\Users\diego\Desktop\visual-htb\TesteExec\bin\Debug\TesteExec.exe
+C:\Users\diego\Desktop\visual-htb\TesteExec\bin\Debug\TesteExec.pdb
+C:\Users\diego\Desktop\visual-htb\TesteExec\obj\Debug\TesteExec.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\visual-htb\TesteExec\obj\Debug\TesteExec.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\visual-htb\TesteExec\obj\Debug\TesteExec.exe
+C:\Users\diego\Desktop\visual-htb\TesteExec\obj\Debug\TesteExec.pdb
